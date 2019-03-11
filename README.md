@@ -1,6 +1,6 @@
 # Mmmm, digital cupcakes: a demo of the TODAQ protocol
 
-## Install instructions
+## Installation instructions
 
 Note: you'll need npm and node to run this demo. You can install them from here: https://nodejs.org/en/
 
