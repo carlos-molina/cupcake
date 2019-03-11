@@ -1,4 +1,4 @@
-# Mmmm, digital cupcakes: a demo of the TODAQ protocol
+# Mmmmmm, digital cupcakes: a demo of the TODAQ protocol
 
 ## Installation instructions
 
